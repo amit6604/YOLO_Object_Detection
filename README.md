@@ -8,5 +8,5 @@
 
 # How to Proceed
 
-* Simply follow and run notebook in google colab
+* Simply follow and run YOLO_CNN.ipynb notebook in google colab
 * output video can be downloded from colab.
